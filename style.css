@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+.btn{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+.btn:hover{
+    box-shadow: 5px 5px 5px rgb(163, 53, 163);
+}
+.boxs:hover{
+    background-image: linear-gradient(red,black);
+    color: white;
+    transform: scale(1.05);
+}
+.shopping{
+    width:599px;
+    height:354.07px;
+}
